@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.skladopyt.ocr"
+    namespace = "com.whereware"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.skladopyt.ocr"
+        applicationId = "com.whereware"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
